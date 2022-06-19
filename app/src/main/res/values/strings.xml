@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MovieApp</string>
+    <string name="movie_app_txt">Movie App</string>
+    <string name="empty_popular_txt">No popular movies found</string>
+    <string name="empty_trending_txt">No Trending movies found</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
